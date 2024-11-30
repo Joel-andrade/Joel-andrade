@@ -1,4 +1,4 @@
-# 👋 Sou Joel Andrade!
+# :sunglasses: Sou Joel Andrade!
 
 ## Sou um desenvolvedor **Front-End** estou aprendendo a desenvolver projetos com:<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5">

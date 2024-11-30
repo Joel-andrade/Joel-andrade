@@ -13,3 +13,5 @@
 - **Bibliotecas de Estilo:** Tailwind CSS, Bootstrap, Sass
 - **Ferramentas de Desenvolvimento:** Git, VS Code, Figma
 - **Outras Skills:** Responsive Design, Acessibilidade (WCAG), SEO Técnico
+---
+

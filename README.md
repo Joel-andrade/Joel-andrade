@@ -8,9 +8,9 @@
 ---
 
 ## 🚀 Tecnologias & Ferramentas
-- **Linguagens:** HTML5, CSS3, JavaScript (ES6+), TypeScript
-- **Frameworks:** React.js, Next.js, Angular
-- **Bibliotecas de Estilo:** Tailwind CSS, Bootstrap, Sass
+- **Linguagens:** HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks:** React.js
+- **Bibliotecas de Estilo:** CSS, Bootstrap
 - **Ferramentas de Desenvolvimento:** Git, VS Code, Figma
 - **Outras Skills:** Responsive Design, Acessibilidade (WCAG), SEO Técnico
 ---
